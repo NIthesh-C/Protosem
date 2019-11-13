@@ -1,2 +1,4 @@
-# Protosem
-Learnings and skills mastered in protosem
+# Industrial Design
+
+Fusion 360 3D models done by nithesh is found in this repository.
+
